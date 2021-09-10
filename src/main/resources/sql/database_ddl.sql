@@ -1,0 +1,1 @@
+create database IF NOT EXISTS graduation_season_book_manager default charset utf8mb4 COLLATE utf8mb4_general_ci;
